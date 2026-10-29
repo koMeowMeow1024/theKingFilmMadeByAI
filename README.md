@@ -1,4 +1,3 @@
-<img width="3341" height="2239" alt="IMG_20260911_165039" src="https://github.com/user-attachments/assets/8555e2b0-fad3-4614-8549-11d8fc659809" /># theKingFilmMadeByAI
 使用ai做的簧片
 
 Prompt提示词：
